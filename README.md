@@ -11,13 +11,16 @@
 |-----|-----|
 |Location|Bekasi|
 |Skills|Web Dev, SEO, Graphic Design|
-|Status|Available for Bussines or Hire|
+|Job Status|Available for Bussines, Open for Hire|
 |Job Type|Fulltime, Parttime, Remote|
-|Note|Enthusiast in Tech, Design, Etc|
+|Company|[DesainerHub](https://desainerhub.com)|
+|Position|Founder|
+|About|Enthusiast in Tech, [Hacktiv8](https://hacktiv8.com/verify/fwdb/maksum-rifai/), [BekasiDev](https://bekasidev.org)|
 |Github|[MaksumRifai](https://github.com/maksumrifai)|
 |Linkedin|[Maksum Rifai](https://linkedin.com/in/maksumrifai)|
 |WhatsApp|[08978553523](https://wa.me/628978553523)|
 |Email|[maksum.rifai@outlook.com](mailto:maksum.rifai@outlook.com)|
+|Links| - |
 
 [Paste diatas ini]
 
@@ -27,12 +30,15 @@
 
 |Name|e.g., Jhon Thor|
 |-----|-----|
-|Location|e.g., Jakarta, Bandung, Bogor|
-|Skills|e.g., Javascript, React, Python |
-|Status|e.g., Available, Looking for Jobs, Hired |
+|Location|e.g., Jakarta, Bogor, Depok, Tangerang, Bekasi|
+|Skills|e.g., Javascript, React, Python, Laravel, Vue |
+|Job Status|e.g., Available, Looking for Jobs, Unemployed, Open, Hired |
 |Job Type|e.g., Fulltime, Parttime, Remote, Contract|
-|Note|write anything (optional)|
+|Company|your latest (ex/now) company|
+|Position|your latest position, e.g., Software Engineer|
+|About|write anything about you, education or activity|
 |Github|[Github Profile](https://github.com/...)|
 |Linkedin|[Linkedin Profile](https://linkedin.com/in/...)|
 |WhatsApp|[0812345678910](https://wa.me/628978553523)|
 |Email|[jhon.thor@gmail.com](mailto:jhon.thor@gmail.com)|
+|Links|add additional links, leave blank or (-)|
