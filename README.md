@@ -1,9 +1,12 @@
 # Talent
->Daftar Software Engineer, Developer &amp; Programmer Indonesia Bertalenta
+>Daftar Software Engineer, Desainer, Developer &amp; Programmer Indonesia Bertalenta
 
 ### [Fork](https://github.com/desainerhub/talent/fork) Repo ini lalu Pull Request untuk menambahkan kandidat.
 #### Hasilnya dapat dilihat di:
 [Repo Gihub](https://github.com/desainerhub/talent) | [Github Pages](https://desainerhub.github.io/talent) | [Website](https://desainerhub.com/talent)
+
+#### Bagi perekrut/pencari kandidat:
+[Register/login](https://desainerhub.com/dashboard-jobs) untuk [Posting](https://desainerhub.com/submit-jobs) Lowongan Pekerjaan di [Website](https://desainerhub.com/jobs)
 
 ----------
 
