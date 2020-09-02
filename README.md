@@ -32,9 +32,9 @@
 |Job Status| Open |
 |Job Type|Fulltime, Remote|
 |Company| [Frontline App](frontline-app.com)|
-|Position|your latest position, e.g., Software Engineer|
-|About|write anything about you, education or activity|
-|Github|[Github Profile](https://github.com/sheenazien08)|
+|Position| Backend Programmer |
+|About| don't worry about the other people |
+|Github|[Sheena Muhammad Ali Zien](https://github.com/sheenazien08)|
 |Linkedin| - |
 |WhatsApp|[089638706830](https://wa.me/089638706830)|
 |Email|[sheenazien08@gmail.com](mailto:sheenazien08@gmail.com)|
