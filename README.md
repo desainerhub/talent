@@ -25,7 +25,20 @@
 |Email|[maksum.rifai@outlook.com](mailto:maksum.rifai@outlook.com)|
 |Links| - |
 
-[Paste diatas ini]
+|Name|e.g., Jhon Thor|
+|-----|-----|
+|Location| Jepara |
+|Skills| Javascript, Nodejs, Laravel, Vue |
+|Job Status| Open |
+|Job Type|Fulltime, Remote|
+|Company| [Frontline App](frontline-app.com)|
+|Position|your latest position, e.g., Software Engineer|
+|About|write anything about you, education or activity|
+|Github|[Github Profile](https://github.com/sheenazien08)|
+|Linkedin| - |
+|WhatsApp|[089638706830](https://wa.me/089638706830)|
+|Email|[sheenazien08@gmail.com](mailto:sheenazien08@gmail.com)|
+|Links| - |
 
 ----------
 
