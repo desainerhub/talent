@@ -25,7 +25,22 @@
 |Email|[maksum.rifai@outlook.com](mailto:maksum.rifai@outlook.com)|
 |Links| - |
 
-|Name|e.g., Jhon Thor|
+|Name|Achmad Rivaldi|
+|-----|-----|
+|Location|Bekasi|
+|Skills|Web Dev|
+|Job Status|Available for Bussines, Open for Hire|
+|Job Type|Fulltime, Parttime, Remote|
+|Company|[Puppetkode](http://puppetkode.my.id)|
+|Position|Founder|
+|About|Enthusiast in Tech, - |
+|Github|[mrtampan](https://github.com/mrtampan)|
+|Linkedin| - |
+|WhatsApp|[08978553523](https://wa.me/6283815355337)|
+|Email|[mrtampan54@gmail.com](mailto:mrtampan54@gmail.com)|
+|Links| - |
+
+|Name|Sheena M.Ali Zien|
 |-----|-----|
 |Location| Jepara |
 |Skills| Javascript, Nodejs, Laravel, Vue |
@@ -39,6 +54,8 @@
 |WhatsApp|[089638706830](https://wa.me/089638706830)|
 |Email|[sheenazien08@gmail.com](mailto:sheenazien08@gmail.com)|
 |Links| - |
+
+[Paste diatas ini]
 
 ----------
 
