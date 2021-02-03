@@ -36,7 +36,7 @@
 |About|Enthusiast in Tech, - |
 |Github|[mrtampan](https://github.com/mrtampan)|
 |Linkedin| - |
-|WhatsApp|[08978553523](https://wa.me/6283815355337)|
+|WhatsApp|[083815355337](https://wa.me/6283815355337)|
 |Email|[mrtampan54@gmail.com](mailto:mrtampan54@gmail.com)|
 |Links| - |
 
